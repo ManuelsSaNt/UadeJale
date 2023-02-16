@@ -1,0 +1,15 @@
+C:\Users\Manue\RiderProjects\ConsoleApp1\promedio_10_valores\bin\Debug\net6.0\promedio_10_valores.exe
+C:\Users\Manue\RiderProjects\ConsoleApp1\promedio_10_valores\bin\Debug\net6.0\promedio_10_valores.deps.json
+C:\Users\Manue\RiderProjects\ConsoleApp1\promedio_10_valores\bin\Debug\net6.0\promedio_10_valores.runtimeconfig.json
+C:\Users\Manue\RiderProjects\ConsoleApp1\promedio_10_valores\bin\Debug\net6.0\promedio_10_valores.dll
+C:\Users\Manue\RiderProjects\ConsoleApp1\promedio_10_valores\bin\Debug\net6.0\promedio_10_valores.pdb
+C:\Users\Manue\RiderProjects\ConsoleApp1\promedio_10_valores\obj\Debug\net6.0\promedio_10_valores.csproj.AssemblyReference.cache
+C:\Users\Manue\RiderProjects\ConsoleApp1\promedio_10_valores\obj\Debug\net6.0\promedio_10_valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manue\RiderProjects\ConsoleApp1\promedio_10_valores\obj\Debug\net6.0\promedio_10_valores.AssemblyInfoInputs.cache
+C:\Users\Manue\RiderProjects\ConsoleApp1\promedio_10_valores\obj\Debug\net6.0\promedio_10_valores.AssemblyInfo.cs
+C:\Users\Manue\RiderProjects\ConsoleApp1\promedio_10_valores\obj\Debug\net6.0\promedio_10_valores.csproj.CoreCompileInputs.cache
+C:\Users\Manue\RiderProjects\ConsoleApp1\promedio_10_valores\obj\Debug\net6.0\promedio_10_valores.dll
+C:\Users\Manue\RiderProjects\ConsoleApp1\promedio_10_valores\obj\Debug\net6.0\refint\promedio_10_valores.dll
+C:\Users\Manue\RiderProjects\ConsoleApp1\promedio_10_valores\obj\Debug\net6.0\promedio_10_valores.pdb
+C:\Users\Manue\RiderProjects\ConsoleApp1\promedio_10_valores\obj\Debug\net6.0\promedio_10_valores.genruntimeconfig.cache
+C:\Users\Manue\RiderProjects\ConsoleApp1\promedio_10_valores\obj\Debug\net6.0\ref\promedio_10_valores.dll

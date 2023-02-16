@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "conjunto_alturas/1.0.0": {
+        "runtime": {
+          "conjunto_alturas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "conjunto_alturas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

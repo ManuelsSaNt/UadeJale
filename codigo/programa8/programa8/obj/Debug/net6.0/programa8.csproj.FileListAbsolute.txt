@@ -1,0 +1,15 @@
+C:\Users\colgu\source\repos\programa8\programa8\obj\Debug\net6.0\programa8.csproj.AssemblyReference.cache
+C:\Users\colgu\source\repos\programa8\programa8\obj\Debug\net6.0\programa8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colgu\source\repos\programa8\programa8\obj\Debug\net6.0\programa8.AssemblyInfoInputs.cache
+C:\Users\colgu\source\repos\programa8\programa8\obj\Debug\net6.0\programa8.AssemblyInfo.cs
+C:\Users\colgu\source\repos\programa8\programa8\obj\Debug\net6.0\programa8.csproj.CoreCompileInputs.cache
+C:\Users\colgu\source\repos\programa8\programa8\bin\Debug\net6.0\programa8.exe
+C:\Users\colgu\source\repos\programa8\programa8\bin\Debug\net6.0\programa8.deps.json
+C:\Users\colgu\source\repos\programa8\programa8\bin\Debug\net6.0\programa8.runtimeconfig.json
+C:\Users\colgu\source\repos\programa8\programa8\bin\Debug\net6.0\programa8.dll
+C:\Users\colgu\source\repos\programa8\programa8\bin\Debug\net6.0\programa8.pdb
+C:\Users\colgu\source\repos\programa8\programa8\obj\Debug\net6.0\programa8.dll
+C:\Users\colgu\source\repos\programa8\programa8\obj\Debug\net6.0\refint\programa8.dll
+C:\Users\colgu\source\repos\programa8\programa8\obj\Debug\net6.0\programa8.pdb
+C:\Users\colgu\source\repos\programa8\programa8\obj\Debug\net6.0\programa8.genruntimeconfig.cache
+C:\Users\colgu\source\repos\programa8\programa8\obj\Debug\net6.0\ref\programa8.dll

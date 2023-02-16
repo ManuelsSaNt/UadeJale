@@ -1,0 +1,15 @@
+C:\Users\Manue\RiderProjects\conjunto_alturas\conjunto_alturas\bin\Debug\net6.0\conjunto_alturas.exe
+C:\Users\Manue\RiderProjects\conjunto_alturas\conjunto_alturas\bin\Debug\net6.0\conjunto_alturas.deps.json
+C:\Users\Manue\RiderProjects\conjunto_alturas\conjunto_alturas\bin\Debug\net6.0\conjunto_alturas.runtimeconfig.json
+C:\Users\Manue\RiderProjects\conjunto_alturas\conjunto_alturas\bin\Debug\net6.0\conjunto_alturas.dll
+C:\Users\Manue\RiderProjects\conjunto_alturas\conjunto_alturas\bin\Debug\net6.0\conjunto_alturas.pdb
+C:\Users\Manue\RiderProjects\conjunto_alturas\conjunto_alturas\obj\Debug\net6.0\conjunto_alturas.csproj.AssemblyReference.cache
+C:\Users\Manue\RiderProjects\conjunto_alturas\conjunto_alturas\obj\Debug\net6.0\conjunto_alturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manue\RiderProjects\conjunto_alturas\conjunto_alturas\obj\Debug\net6.0\conjunto_alturas.AssemblyInfoInputs.cache
+C:\Users\Manue\RiderProjects\conjunto_alturas\conjunto_alturas\obj\Debug\net6.0\conjunto_alturas.AssemblyInfo.cs
+C:\Users\Manue\RiderProjects\conjunto_alturas\conjunto_alturas\obj\Debug\net6.0\conjunto_alturas.csproj.CoreCompileInputs.cache
+C:\Users\Manue\RiderProjects\conjunto_alturas\conjunto_alturas\obj\Debug\net6.0\conjunto_alturas.dll
+C:\Users\Manue\RiderProjects\conjunto_alturas\conjunto_alturas\obj\Debug\net6.0\refint\conjunto_alturas.dll
+C:\Users\Manue\RiderProjects\conjunto_alturas\conjunto_alturas\obj\Debug\net6.0\conjunto_alturas.pdb
+C:\Users\Manue\RiderProjects\conjunto_alturas\conjunto_alturas\obj\Debug\net6.0\conjunto_alturas.genruntimeconfig.cache
+C:\Users\Manue\RiderProjects\conjunto_alturas\conjunto_alturas\obj\Debug\net6.0\ref\conjunto_alturas.dll

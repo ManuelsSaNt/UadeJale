@@ -1,0 +1,15 @@
+C:\Users\Manue\RiderProjects\ConsoleApp1\countPares\bin\Debug\net6.0\countPares.exe
+C:\Users\Manue\RiderProjects\ConsoleApp1\countPares\bin\Debug\net6.0\countPares.deps.json
+C:\Users\Manue\RiderProjects\ConsoleApp1\countPares\bin\Debug\net6.0\countPares.runtimeconfig.json
+C:\Users\Manue\RiderProjects\ConsoleApp1\countPares\bin\Debug\net6.0\countPares.dll
+C:\Users\Manue\RiderProjects\ConsoleApp1\countPares\bin\Debug\net6.0\countPares.pdb
+C:\Users\Manue\RiderProjects\ConsoleApp1\countPares\obj\Debug\net6.0\countPares.csproj.AssemblyReference.cache
+C:\Users\Manue\RiderProjects\ConsoleApp1\countPares\obj\Debug\net6.0\countPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manue\RiderProjects\ConsoleApp1\countPares\obj\Debug\net6.0\countPares.AssemblyInfoInputs.cache
+C:\Users\Manue\RiderProjects\ConsoleApp1\countPares\obj\Debug\net6.0\countPares.AssemblyInfo.cs
+C:\Users\Manue\RiderProjects\ConsoleApp1\countPares\obj\Debug\net6.0\countPares.csproj.CoreCompileInputs.cache
+C:\Users\Manue\RiderProjects\ConsoleApp1\countPares\obj\Debug\net6.0\countPares.dll
+C:\Users\Manue\RiderProjects\ConsoleApp1\countPares\obj\Debug\net6.0\refint\countPares.dll
+C:\Users\Manue\RiderProjects\ConsoleApp1\countPares\obj\Debug\net6.0\countPares.pdb
+C:\Users\Manue\RiderProjects\ConsoleApp1\countPares\obj\Debug\net6.0\countPares.genruntimeconfig.cache
+C:\Users\Manue\RiderProjects\ConsoleApp1\countPares\obj\Debug\net6.0\ref\countPares.dll

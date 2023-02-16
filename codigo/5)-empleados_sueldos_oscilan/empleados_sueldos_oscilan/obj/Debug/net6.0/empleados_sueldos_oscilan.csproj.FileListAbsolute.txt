@@ -1,0 +1,15 @@
+C:\Users\Manue\RiderProjects\empleados_sueldos_oscilan\empleados_sueldos_oscilan\bin\Debug\net6.0\empleados_sueldos_oscilan.exe
+C:\Users\Manue\RiderProjects\empleados_sueldos_oscilan\empleados_sueldos_oscilan\bin\Debug\net6.0\empleados_sueldos_oscilan.deps.json
+C:\Users\Manue\RiderProjects\empleados_sueldos_oscilan\empleados_sueldos_oscilan\bin\Debug\net6.0\empleados_sueldos_oscilan.runtimeconfig.json
+C:\Users\Manue\RiderProjects\empleados_sueldos_oscilan\empleados_sueldos_oscilan\bin\Debug\net6.0\empleados_sueldos_oscilan.dll
+C:\Users\Manue\RiderProjects\empleados_sueldos_oscilan\empleados_sueldos_oscilan\bin\Debug\net6.0\empleados_sueldos_oscilan.pdb
+C:\Users\Manue\RiderProjects\empleados_sueldos_oscilan\empleados_sueldos_oscilan\obj\Debug\net6.0\empleados_sueldos_oscilan.csproj.AssemblyReference.cache
+C:\Users\Manue\RiderProjects\empleados_sueldos_oscilan\empleados_sueldos_oscilan\obj\Debug\net6.0\empleados_sueldos_oscilan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manue\RiderProjects\empleados_sueldos_oscilan\empleados_sueldos_oscilan\obj\Debug\net6.0\empleados_sueldos_oscilan.AssemblyInfoInputs.cache
+C:\Users\Manue\RiderProjects\empleados_sueldos_oscilan\empleados_sueldos_oscilan\obj\Debug\net6.0\empleados_sueldos_oscilan.AssemblyInfo.cs
+C:\Users\Manue\RiderProjects\empleados_sueldos_oscilan\empleados_sueldos_oscilan\obj\Debug\net6.0\empleados_sueldos_oscilan.csproj.CoreCompileInputs.cache
+C:\Users\Manue\RiderProjects\empleados_sueldos_oscilan\empleados_sueldos_oscilan\obj\Debug\net6.0\empleados_sueldos_oscilan.dll
+C:\Users\Manue\RiderProjects\empleados_sueldos_oscilan\empleados_sueldos_oscilan\obj\Debug\net6.0\refint\empleados_sueldos_oscilan.dll
+C:\Users\Manue\RiderProjects\empleados_sueldos_oscilan\empleados_sueldos_oscilan\obj\Debug\net6.0\empleados_sueldos_oscilan.pdb
+C:\Users\Manue\RiderProjects\empleados_sueldos_oscilan\empleados_sueldos_oscilan\obj\Debug\net6.0\empleados_sueldos_oscilan.genruntimeconfig.cache
+C:\Users\Manue\RiderProjects\empleados_sueldos_oscilan\empleados_sueldos_oscilan\obj\Debug\net6.0\ref\empleados_sueldos_oscilan.dll
